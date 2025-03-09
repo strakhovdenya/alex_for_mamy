@@ -1,0 +1,34 @@
+.box {
+
+
+    background-color: #f605b9;
+    height: 100%;
+    max-width: 1440px;
+    padding: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: #e70d0d;
+
+
+}
+
+   
+.picture img {
+    
+
+        height: 288px;
+        width: 288px;
+        border-radius: 10px;
+        margin-bottom: 23px;
+        
+}
+h1 {
+    text-align: center;
+    color: #f80505;
+    font-size: 22px;
+    margin-bottom: 16px;
+    }
+    
